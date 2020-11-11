@@ -1,0 +1,15 @@
+.App {
+  font-family: cursive;
+}
+
+h1 {
+  font-family: cursive;
+  font-size: 50 px;
+}
+div {
+  background-color: red;
+  font-family: cursive;
+}
+button {
+  border-color: black;
+}
